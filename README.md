@@ -7,3 +7,11 @@ It is worth to look at the famous crash of a plane taking off from  LGA airport 
 ![Dashboard 1 (1)](https://github.com/GrzegorzCiepiel/Tableau_projects/assets/135313652/79f60c57-3e01-4bbd-996b-8f934ef307b9)
 
 https://public.tableau.com/views/Airplane-WildlifeCollisions_17087790269090/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
+ ## Trees in NYC
+ 
+Tree analysis in New York based on data from NYC tree census.
+
+![Dashboard 3](https://github.com/GrzegorzCiepiel/Tableau_projects/assets/135313652/d7305753-8f86-4f66-83aa-6af5cb71933c)
+
+https://public.tableau.com/views/NYCTrees_17086134645850/Dashboard3?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
